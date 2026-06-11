@@ -1,0 +1,8 @@
+path: dataset_yolo
+train: images/train
+val: images/val
+test: images/test
+
+# Noms des classes
+names:
+  0: fracture
